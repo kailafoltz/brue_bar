@@ -1,0 +1,51 @@
+body {
+  background-color: #faf9f6;
+}
+
+.ui.equal.width.center.aligned.padded.grid {
+  background-color: #25262e;
+  font-size: 14px;
+  font-family: 'Inconsolata', "Helvetica Neue", sans-serif;
+  color: white;
+  border: none;
+  line-height: 43px;
+}
+
+.ui.compact.borderless.menu {
+  color: black;
+  opacity: 1;
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+  box-shadow: none;
+  font-size: 11px;
+  background-color: #faf9f6;
+  padding-bottom: 30px;
+}
+
+.ui.center.aligned.grid.logo {
+  padding-top: 120px;
+  padding-bottom: 80px;
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+  font-family: 'Inconsolata', "Helvetica Neue", sans-serif;
+  line-height: 24px;
+  padding-left: 190px;
+  padding-right: 190px;
+  text-align: left;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.ui.center.aligned.container.bottom.section {
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-bottom: 100px;
+}
